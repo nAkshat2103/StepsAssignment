@@ -15,3 +15,6 @@ The project repository comprises 4 IPython notebooks focusing on distinct functi
   Retrieval: Focused on advanced techniques in Retrieval Augmented Generation(RAG), this notebook enhances system performance through sophisticated retrieval methods.
 
 Each notebook within the repository serves a crucial role in facilitating comprehensive data retrieval, processing, and enhancement using advanced techniques.
+
+To check the model, just open the RAG.ipynb notebook in google colab and run it. All the required dependencies will be downloaded. In the last cell you can ask the quesstion that you like. 
+The model might take around 2-3 minutes for inferencing
